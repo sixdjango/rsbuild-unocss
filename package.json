@@ -12,8 +12,8 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@rsbuild/core": "^0.0.28",
-    "@rsbuild/plugin-react": "^0.0.28",
+    "@rsbuild/core": "^0.1.0",
+    "@rsbuild/plugin-react": "^0.1.0",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "@unocss/postcss": "^0.57.7",
